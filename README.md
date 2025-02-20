@@ -52,7 +52,7 @@ This project classifies echoes from Sentinel-3 altimetry data into sea ice and l
 The project uses Sentinel-3 altimetry data (NetCDF format).  The file should contain:
 
 * `waveform`: Ku-band waveforms.
-* `flag`: ESA classification flag (sea ice = 1, lead = 2).
+* `flag`: ESA classification flag (sea ice = 0, lead = 1).
 * `sig0`: Normalised radar cross-section.
 * `waves`:  (Description of this variable needed - e.g., "Corrected waveforms", "Filtered waveforms", etc.)
 * `time_01`, `time_20_ku`, `time_20_c`: Time variables for interpolation.
