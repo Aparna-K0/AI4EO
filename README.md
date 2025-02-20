@@ -2,14 +2,13 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/your_github_username/your_repo_name">  </a>
+  <a href="https://github.com/Aparna-K0/AI4EO">  </a>
 
   <h3 align="center">Sea Ice and Lead Echo Classification using Unsupervised Learning</h3>
 
   <p align="center">
     Classifies Sentinel-3 altimetry echoes into sea ice and lead using GMM, calculates average echo shapes, and evaluates against ESA data.
     <br />
-    <a href="https://github.com/Aparna-K0/AI4EO"><strong>Explore the notebook »</strong></a> <br />
     <br />
     <a href="https://github.com/Aparna-K0/AI4EO/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
